@@ -1,0 +1,21 @@
+{
+    "name": "Distance sonar no neopixels",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Distance Sonar": "github:vaughn-hatherall/distance-sonar#master"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
